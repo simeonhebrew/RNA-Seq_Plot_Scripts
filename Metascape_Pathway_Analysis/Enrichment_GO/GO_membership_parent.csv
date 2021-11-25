@@ -1,0 +1,14 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,CHILD_GO_hits
+1,-7.162675929900485,GO:0009987,cellular process,M1,1,GO:0033693 neurofilament bundle assembly
+1,-4.63452577424926,GO:0065007,biological regulation,M1,1,GO:0042391 regulation of membrane potential
+1,-4.066955791104682,GO:0051179,localization,M1,1,GO:2000649 regulation of sodium ion transmembrane transporter activity
+1,-4.038534308954973,GO:0032502,developmental process,M1,1,GO:0010975 regulation of neuron projection development
+1,-3.8556760684056446,GO:0007610,behavior,M1,1,GO:0030534 adult behavior
+1,-3.64277104427618,GO:0050789,regulation of biological process,M1,1,GO:0120035 regulation of plasma membrane bounded cell projection organization
+1,-3.5204937830849024,GO:0050896,response to stimulus,M1,1,GO:0010035 response to inorganic substance
+1,-3.2348840189907357,GO:0023052,signaling,M1,1,GO:0060079 excitatory postsynaptic potential
+1,-2.9832330344672817,GO:0008152,metabolic process,M1,1,GO:0010799 regulation of peptidyl-threonine phosphorylation
+1,-2.9634561865797506,GO:0048519,negative regulation of biological process,M1,1,GO:0043524 negative regulation of neuron apoptotic process
+1,-2.8544262219514844,GO:0032501,multicellular organismal process,M1,1,GO:0044057 regulation of system process
+1,-2.8113583680290986,GO:0048518,positive regulation of biological process,M1,1,GO:0031646 positive regulation of nervous system process
+1,-2.347849163282268,GO:0002376,immune system process,M1,1,GO:0045670 regulation of osteoclast differentiation

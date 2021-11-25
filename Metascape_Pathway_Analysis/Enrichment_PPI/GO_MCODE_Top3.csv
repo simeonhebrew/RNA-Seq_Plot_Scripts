@@ -1,0 +1,6 @@
+Network,Annotation
+hits,GO:0033693|neurofilament bundle assembly|-8.2;GO:0045105|intermediate filament polymerization or depolymerization|-8.2;GO:0045110|intermediate filament bundle assembly|-6.7
+hits_MCODE_ALL,GO:0033693|neurofilament bundle assembly|-9.8;GO:0045110|intermediate filament bundle assembly|-8.3;GO:0060052|neurofilament cytoskeleton organization|-7.6
+hits_SUB1_MCODE_1,R-MMU-8957275|Post-translational protein phosphorylation|-6.2;R-MMU-381426|Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)|-6.1
+hits_SUB2_MCODE_2,GO:0033693|neurofilament bundle assembly|-11.6;GO:0045110|intermediate filament bundle assembly|-10.0;GO:0060052|neurofilament cytoskeleton organization|-9.3
+hits_SUB4_MCODE_3,R-MMU-8948216|Collagen chain trimerization|-7.6;GO:0030198|extracellular matrix organization|-7.3;GO:0043062|extracellular structure organization|-7.3

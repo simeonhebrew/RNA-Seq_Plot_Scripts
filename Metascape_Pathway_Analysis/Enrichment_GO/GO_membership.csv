@@ -1,0 +1,134 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-2.7,GO:1905114,cell surface receptor signaling pathway involved in cell-cell signaling,M1,1,0
+1,-3.4,GO:0035725,sodium ion transmembrane transport,M1,1,0
+1,-2.3,GO:0032272,negative regulation of protein polymerization,M1,1,0
+1,-2.7,GO:0003012,muscle system process,M1,1,0
+1,-3.8,R-MMU-112314,Neurotransmitter receptors and postsynaptic signal transmission,M1,1,0
+1,-3.6,GO:0031344,regulation of cell projection organization,M1,1,0
+1,-2.2,GO:0140029,exocytic process,M1,1,0
+1,-3.5,GO:0010035,response to inorganic substance,M1,1,0
+1,-2.9,R-MMU-5576891,Cardiac conduction,M1,1,0
+1,-2,GO:0008016,regulation of heart contraction,M1,1,0
+1,-2.4,GO:1901215,negative regulation of neuron death,M1,1,0
+1,-2.2,GO:0019226,transmission of nerve impulse,M1,1,0
+1,-2.2,GO:0006941,striated muscle contraction,M1,1,0
+1,-2.1,GO:0032409,regulation of transporter activity,M1,1,0
+1,-3,GO:0043523,regulation of neuron apoptotic process,M1,1,0
+1,-2.1,GO:0072659,protein localization to plasma membrane,M1,1,0
+1,-2.3,R-MMU-397014,Muscle contraction,M1,1,0
+1,-2.1,GO:0098656,anion transmembrane transport,M1,1,0
+1,-2.1,GO:0031644,regulation of nervous system process,M1,1,0
+1,-2.5,GO:0015800,acidic amino acid transport,M1,1,0
+1,-4,GO:0010975,regulation of neuron projection development,M1,1,0
+1,-2.3,GO:0009914,hormone transport,M1,1,0
+1,-3,R-MMU-112310,Neurotransmitter release cycle,M1,1,0
+1,-2.8,mmu05014,Amyotrophic lateral sclerosis (ALS),M1,1,0
+1,-3,GO:0043524,negative regulation of neuron apoptotic process,M1,1,0
+1,-2.6,GO:0023061,signal release,M1,1,0
+1,-2.6,GO:0010976,positive regulation of neuron projection development,M1,1,0
+1,-2,GO:0030198,extracellular matrix organization,M1,1,0
+1,-2.7,GO:0060048,cardiac muscle contraction,M1,1,0
+1,-2.2,GO:0044283,small molecule biosynthetic process,M1,1,0
+1,-2.7,GO:0010942,positive regulation of cell death,M1,1,0
+1,-2.7,GO:1901216,positive regulation of neuron death,M1,1,0
+1,-2.8,GO:0009636,response to toxic substance,M1,1,0
+1,-2.4,R-MMU-425366,"Transport of bile salts and organic acids, metal ions and amine compounds",M1,1,0
+1,-2,GO:0043062,extracellular structure organization,M1,1,0
+1,-2.9,GO:0044057,regulation of system process,M1,1,0
+1,-2.1,GO:0002790,peptide secretion,M1,1,0
+1,-2,GO:0014074,response to purine-containing compound,M1,1,0
+1,-2.5,GO:0051588,regulation of neurotransmitter transport,M1,1,0
+1,-3.5,GO:0098810,neurotransmitter reuptake,M1,1,0
+1,-2.9,ko05014,Amyotrophic lateral sclerosis (ALS),M1,1,0
+1,-2.1,WP2432,Spinal cord injury,M1,1,0
+1,-2.5,R-MMU-216083,Integrin cell surface interactions,M1,1,0
+1,-7.1,R-MMU-112315,Transmission across Chemical Synapses,M1,1,0
+1,-2.7,GO:0051668,localization within membrane,M1,1,0
+1,-3.2,R-MMU-8948216,Collagen chain trimerization,M1,1,0
+1,-7.2,GO:0045105,intermediate filament polymerization or depolymerization,M1,1,0
+1,-3.9,GO:0060078,regulation of postsynaptic membrane potential,M1,1,0
+1,-2,GO:0061351,neural precursor cell proliferation,M1,1,0
+1,-2.7,R-MMU-1650814,Collagen biosynthesis and modifying enzymes,M1,1,0
+1,-3.1,GO:0099565,"chemical synaptic transmission, postsynaptic",M1,1,0
+1,-7.2,GO:0033693,neurofilament bundle assembly,M1,1,0
+1,-2.2,GO:0030072,peptide hormone secretion,M1,1,0
+1,-2.3,GO:0051899,membrane depolarization,M1,1,0
+1,-2.4,GO:0035637,multicellular organismal signaling,M1,1,0
+1,-2.2,mmu04727,GABAergic synapse,M1,1,0
+1,-3.2,GO:0099003,vesicle-mediated transport in synapse,M1,1,0
+1,-3.5,R-MMU-425407,SLC-mediated transmembrane transport,M1,1,0
+1,-3,GO:0003254,regulation of membrane depolarization,M1,1,0
+1,-2,GO:0015844,monoamine transport,M1,1,0
+1,-3.2,GO:0001504,neurotransmitter uptake,M1,1,0
+1,-2.3,GO:0006865,amino acid transport,M1,1,0
+1,-2.7,GO:0099177,regulation of trans-synaptic signaling,M1,1,0
+1,-2.8,GO:0050804,modulation of chemical synaptic transmission,M1,1,0
+1,-2.6,GO:0010817,regulation of hormone levels,M1,1,0
+1,-4.6,GO:0042391,regulation of membrane potential,M1,1,0
+1,-2.3,GO:0050805,negative regulation of synaptic transmission,M1,1,0
+1,-2.5,GO:0086003,cardiac muscle cell contraction,M1,1,0
+1,-3.1,GO:0010765,positive regulation of sodium ion transport,M1,1,0
+1,-3.2,GO:0071248,cellular response to metal ion,M1,1,0
+1,-2.7,GO:0070997,neuron death,M1,1,0
+1,-2.4,GO:0008360,regulation of cell shape,M1,1,0
+1,-2.1,GO:0030099,myeloid cell differentiation,M1,1,0
+1,-2.4,GO:0046879,hormone secretion,M1,1,0
+1,-2.3,ko04512,ECM-receptor interaction,M1,1,0
+1,-3.1,GO:0007626,locomotory behavior,M1,1,0
+1,-2.5,GO:0006836,neurotransmitter transport,M1,1,0
+1,-5.6,GO:0045110,intermediate filament bundle assembly,M1,1,0
+1,-2.5,GO:0060047,heart contraction,M1,1,0
+1,-3.3,ko04974,Protein digestion and absorption,M1,1,0
+1,-2.4,GO:1990778,protein localization to cell periphery,M1,1,0
+1,-4.2,GO:0045104,intermediate filament cytoskeleton organization,M1,1,0
+1,-3.3,GO:0006814,sodium ion transport,M1,1,0
+1,-2.4,GO:0003015,heart process,M1,1,0
+1,-2.9,GO:0010038,response to metal ion,M1,1,0
+1,-3.8,GO:0015837,amine transport,M1,1,0
+1,-2.4,GO:0051966,"regulation of synaptic transmission, glutamatergic",M1,1,0
+1,-2.2,GO:0022898,regulation of transmembrane transporter activity,M1,1,0
+1,-2.2,ko04727,GABAergic synapse,M1,1,0
+1,-2.7,mmu04721,Synaptic vesicle cycle,M1,1,0
+1,-2,GO:0015833,peptide transport,M1,1,0
+1,-2.6,GO:0099504,synaptic vesicle cycle,M1,1,0
+1,-3.5,GO:0045109,intermediate filament organization,M1,1,0
+1,-4.1,GO:0045103,intermediate filament-based process,M1,1,0
+1,-2.7,GO:0051402,neuron apoptotic process,M1,1,0
+1,-2.1,GO:0003013,circulatory system process,M1,1,0
+1,-2.5,GO:0043624,cellular protein complex disassembly,M1,1,0
+1,-2.4,GO:0098661,inorganic anion transmembrane transport,M1,1,0
+1,-2.4,GO:0007610,behavior,M1,1,0
+1,-3.9,GO:0030534,adult behavior,M1,1,0
+1,-2.9,GO:1901214,regulation of neuron death,M1,1,0
+1,-2.8,GO:2000177,regulation of neural precursor cell proliferation,M1,1,0
+1,-4.1,GO:2000649,regulation of sodium ion transmembrane transporter activity,M1,1,0
+1,-2.7,GO:0006936,muscle contraction,M1,1,0
+1,-2.5,GO:0072657,protein localization to membrane,M1,1,0
+1,-2.1,GO:0051345,positive regulation of hydrolase activity,M1,1,0
+1,-2.5,mmu05224,Breast cancer,M1,1,0
+1,-2.5,ko05224,Breast cancer,M1,1,0
+1,-3.4,R-MMU-382551,Transport of small molecules,M1,1,0
+1,-6.2,R-MMU-112316,Neuronal System,M1,1,0
+1,-2.5,GO:0071241,cellular response to inorganic substance,M1,1,0
+1,-2.6,GO:0048008,platelet-derived growth factor receptor signaling pathway,M1,1,0
+1,-2.3,R-MMU-1474290,Collagen formation,M1,1,0
+1,-2.3,mmu04512,ECM-receptor interaction,M1,1,0
+1,-2,GO:0045229,external encapsulating structure organization,M1,1,0
+1,-3.1,GO:0002028,regulation of sodium ion transport,M1,1,0
+1,-2.4,GO:0001505,regulation of neurotransmitter levels,M1,1,0
+1,-2.9,GO:0051952,regulation of amine transport,M1,1,0
+1,-2.8,GO:0031646,positive regulation of nervous system process,M1,1,0
+1,-2.6,GO:0098657,import into cell,M1,1,0
+1,-2.1,GO:0070252,actin-mediated cell contraction,M1,1,0
+1,-3.6,GO:0120035,regulation of plasma membrane bounded cell projection organization,M1,1,0
+1,-2.7,ko04721,Synaptic vesicle cycle,M1,1,0
+1,-3.8,GO:1902305,regulation of sodium ion transmembrane transport,M1,1,0
+1,-3.2,GO:0060079,excitatory postsynaptic potential,M1,1,0
+1,-2.4,GO:0098660,inorganic ion transmembrane transport,M1,1,0
+1,-2.7,GO:0043244,regulation of protein-containing complex disassembly,M1,1,0
+1,-2.1,GO:1901879,regulation of protein depolymerization,M1,1,0
+1,-5,GO:0060052,neurofilament cytoskeleton organization,M1,1,0
+1,-2.3,GO:0045670,regulation of osteoclast differentiation,M1,1,0
+1,-3.2,mmu04974,Protein digestion and absorption,M1,1,0
+1,-3,GO:0010799,regulation of peptidyl-threonine phosphorylation,M1,1,0
+1,-2.4,GO:0090150,establishment of protein localization to membrane,M1,1,0
